@@ -5,7 +5,7 @@ It works very well but has not been **battle-tested** or tested for bugs in any 
 
 I will not provide any documentation whatsoever, its very easy to use you just need **basic knowledge** to modify it.
 
-**!! I may include long-term memory leaks, I personally doubt !!**
+**!! It may include long-term memory leaks !!**
 
 I highly vouch the idea the other reviewers said, its a very advanced system that just needs to be tested before pushed to production games. Even tho the trend is going to get smoked, I'd say this is also a great point of learning from newbies; I have tried to keep the code very clean this time...
 
